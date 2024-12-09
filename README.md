@@ -1,8 +1,8 @@
 # My Awesome Project
 
 ## Collaborators
-- **Komal Bagwe** - Frontend development and UI design
-- **Shreyansh Bhalla** - Backend development and API integration
+- **Komal Bagwe**
+- **Shreyansh Bhalla**
 
 ## Credits
 Thanks to all the contributors who helped make this project a success!
