@@ -1,7 +1,7 @@
 # My Awesome Project
 
 ## Collaborators
-- **Komal Bagwe**
+
 - **Shreyansh Bhalla**
 
 ## Credits
